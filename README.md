@@ -1,4 +1,4 @@
-# powerbi-csat
+# powerbi-csat-project
 Power BI Portfolio Project about CSAT Performance on BPO
 
 📌 Project Overview
