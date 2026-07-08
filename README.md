@@ -57,3 +57,9 @@ Story Telling
 Root Cause Analysis
 
 🖼️ Dashboard Preview
+
+<img width="1947" height="1092" alt="image" src="https://github.com/user-attachments/assets/e2b0cf04-ec18-487b-8492-2a913738c539" />
+<img width="1951" height="1107" alt="image" src="https://github.com/user-attachments/assets/4c4e6d5d-4d13-41fb-b017-5e8a9491215a" />
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/060f6ffd-8d9b-4ae0-a1d4-43c90c49ec35" />
+<img width="1280" height="731" alt="image" src="https://github.com/user-attachments/assets/8eed6573-9891-4ec8-8013-ffef696cd1d5" />
+
