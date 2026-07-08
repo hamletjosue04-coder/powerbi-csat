@@ -1,4 +1,4 @@
-# powerbi-csat-project
+# customer-satisfaction-analysis-powerbi
 Power BI Portfolio Project about CSAT Performance on BPO
 
 📌 Project Overview
@@ -56,7 +56,7 @@ Decision Making
 Story Telling
 Root Cause Analysis
 
-🖼️ Dashboard Preview
+🖼️ Dashboard View
 
 <img width="1947" height="1092" alt="image" src="https://github.com/user-attachments/assets/e2b0cf04-ec18-487b-8492-2a913738c539" />
 <img width="1951" height="1107" alt="image" src="https://github.com/user-attachments/assets/4c4e6d5d-4d13-41fb-b017-5e8a9491215a" />
